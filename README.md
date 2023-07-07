@@ -4,8 +4,8 @@ Preview of the website
 
 Instructor
 
-https://github.com/iharsh-g/StudyNotion/assets/79085857/868721b8-4f7b-4e2c-850d-7ad935c23160
+https://github.com/iharsh-g/StudyNotion-EdTech/assets/79085857/d997ba08-7a0b-4d55-8e8c-ae8ecf953016
 
 Student
 
-https://github.com/iharsh-g/StudyNotion/assets/79085857/2596c0d9-cf24-4cde-a833-dfd6901ba4a2
+https://github.com/iharsh-g/StudyNotion-EdTech/assets/79085857/3d097607-907e-403d-a68b-014907b14476
